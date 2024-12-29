@@ -11,11 +11,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoSupriano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoSupriano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=BrunoSupriano&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoSupriano&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoSupriano&radius=10&theme=github-dark&area=true&order=5&hide_border=true" height="447" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=BrunoSupriano&theme=dracula&column=-1&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoSupriano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoSupriano&radius=10&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="447" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=BrunoSupriano&theme=gitdimmed&column=-1&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
