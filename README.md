@@ -54,25 +54,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<h1 align="center">📱Contato</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="www.linkedin.com/in/bruno-supriano-b75b14196" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="brunosupriano@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="62" height="50" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="stormhold23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
-  </a>
-</div>
-
-###
